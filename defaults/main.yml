@@ -1,0 +1,4 @@
+---
+# defaults file for nodejs
+
+nodejs_version: 6.x

@@ -1,0 +1,7 @@
+---
+
+- hosts: all
+  vars:
+    apt_cache_valid_time: 21600
+  roles:
+   - ../../ansible-nodejs
